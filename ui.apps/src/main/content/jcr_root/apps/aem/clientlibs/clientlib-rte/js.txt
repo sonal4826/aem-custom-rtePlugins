@@ -1,0 +1,3 @@
+romanList.js
+strikethrough.js
+clearFormatting.js
